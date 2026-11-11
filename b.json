@@ -304,44 +304,6 @@
       "quickSearch": 0
     },
     {
-      "key": "csp_xml_优质",
-      "name": "17·❤优质资源",
-      "type": 1,
-      "api": "https://api.1080zyku.com/inc/api_mac10.php?ac=list",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "playerType": 2,
-      "categories": [
-        "动作片",
-        "喜剧片",
-        "科幻片",
-        "恐怖片",
-        "爱情片",
-        "剧情片",
-        "战争片",
-        "记录片",
-        "动画片",
-        "国产剧",
-        "欧美剧",
-        "香港剧",
-        "韩国剧",
-        "台湾剧",
-        "日本剧",
-        "海外剧",
-        "泰国剧",
-        "国产动漫",
-        "日韩动漫",
-        "欧美动漫",
-        "港台动漫",
-        "海外动漫",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺"
-      ]
-    },
-    {
       "key": "360",
       "name": "18·360 | 采集",
       "type": 1,
@@ -390,16 +352,6 @@
         "日本伦理",
         "直播"
       ]
-    },
-    {
-      "key": "ikun",
-      "name": "20·ikun | 采集",
-      "type": 1,
-      "api": "https://ikunzyapi.com/api.php/provide/vod/",
-      "playerType": 1,
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 0
     },
     {
       "key": "my_extra_thai",
@@ -501,81 +453,31 @@
       "changeable": 1
     },
     {
-      "key": "cold_58动漫",
-      "name": "32·58|动漫",
-      "type": 3,
-      "api": "https://www.yingm.cc/js/drpy2.min.js",
-      "searchable": 1,
+      "key": "auto_20261111131900_1",
+      "name": "32·7-非凡 | 采集",
+      "type": 1,
+      "api": "https://ffzy4.tv/api.php/provide/vod",
       "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "https://www.yingm.cc/js/58动漫.js"
+      "searchable": 1,
+      "changeable": 1
     },
     {
-      "key": "cold_NyaFun",
-      "name": "33·NyaFun",
-      "type": 3,
-      "api": "https://www.yingm.cc/js/drpy.min.js",
-      "searchable": 1,
+      "key": "auto_20261111131900_2",
+      "name": "33·🍀┃非凡┃资源·二月红接口 | 采集",
+      "type": 1,
+      "api": "http://ffzy5.tv/api.php/provide/vod",
       "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "https://www.yingm.cc/js/NyaFun.js"
+      "searchable": 1,
+      "changeable": 1
     },
     {
-      "key": "cold_AGE动漫",
-      "name": "34·AGE动漫",
-      "type": 3,
-      "api": "https://www.yingm.cc/js/drpy.min.js",
-      "searchable": 1,
+      "key": "auto_20261111131900_3",
+      "name": "34·猫眼资源 | 采集",
+      "type": 1,
+      "api": "https://api.maoyanapi.top/api.php/provide/vod",
       "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "https://www.yingm.cc/js/AGE动漫.js"
-    },
-    {
-      "key": "cold_NT动漫",
-      "name": "35·NT|动漫",
-      "type": 3,
-      "api": "https://www.yingm.cc/js/drpy2.min.js",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "https://www.yingm.cc/js/NT动漫.js"
-    },
-    {
-      "key": "cold_妮可动漫",
-      "name": "36·妮可动漫",
-      "type": 3,
-      "api": "https://www.yingm.cc/js/drpy.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "https://www.yingm.cc/js/妮可动漫.js"
-    },
-    {
-      "key": "cold_风车动漫",
-      "name": "37·风车动漫",
-      "type": 3,
-      "api": "https://www.yingm.cc/js/drpy.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "https://www.yingm.cc/js/风车动漫.js"
-    },
-    {
-      "key": "cold_ddys",
-      "name": "38·低端影视",
-      "type": 3,
-      "api": "http://home.jundie.top:666/JS/dr_py/libs/drpy.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "http://home.jundie.top:666/JS/dr_py/js/ddys.js"
+      "changeable": 1
     }
   ]
 }
