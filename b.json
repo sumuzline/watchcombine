@@ -19,8 +19,19 @@
   ],
   "sites": [
     {
+      "key": "my_douban_rank",
+      "name": "00·豆瓣片库 | 榜单",
+      "type": 3,
+      "api": "csp_Douban",
+      "jar": "https://sumuzline.github.io/watchcombine/l.bin",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
+    },
+    {
       "key": "my_douban",
-      "name": "00·豆瓣片库",
+      "name": "00·豆瓣片库 | 精选",
       "type": 3,
       "api": "http://47.96.82.41:5188/rose/18/lib/drpy2.min.js",
       "ext": "https://sumuzline.github.io/watchcombine/r.js",
