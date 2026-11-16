@@ -30,18 +30,6 @@
       "changeable": 0
     },
     {
-      "key": "my_douban",
-      "name": "00·豆瓣片库 | 精选",
-      "type": 3,
-      "api": "http://47.96.82.41:5188/rose/18/lib/drpy2.min.js",
-      "ext": "https://sumuzline.github.io/watchcombine/r.js",
-      "jar": "https://sumuzline.github.io/watchcombine/l.bin",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "changeable": 0
-    },
-    {
       "key": "金鹰",
       "name": "01·金鹰 | 采集",
       "type": 1,
@@ -357,10 +345,19 @@
       "changeable": 1
     },
     {
-      "key": "auto_20261111131900_3",
-      "name": "34·猫眼资源 | 采集",
+      "key": "auto_20261116210057_1",
+      "name": "34·西瓜资源 | 采集",
       "type": 1,
-      "api": "https://api.maoyanapi.top/api.php/provide/vod",
+      "api": "https://xiguazy.tv/api.php/provide/vod",
+      "quickSearch": 1,
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "auto_20261116210057_2",
+      "name": "35·6-非凡 | 采集",
+      "type": 1,
+      "api": "https://ffzy3.tv/api.php/provide/vod",
       "quickSearch": 1,
       "searchable": 1,
       "changeable": 1
